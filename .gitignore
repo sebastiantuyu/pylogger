@@ -1,0 +1,6 @@
+/pylogger_discord.egg-info
+/dist
+/build
+
+__pycache__
+.env
